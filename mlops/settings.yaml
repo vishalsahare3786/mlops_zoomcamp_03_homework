@@ -1,4 +1,8 @@
 projects:
+  03_homework:
+    path: 03_homework
+  little_magic: {}
+  poetic_willow: {}
   unit_0_setup: {}
   unit_1_data_preparation: {}
   unit_2_training: {}
